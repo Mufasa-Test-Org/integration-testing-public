@@ -1,3 +1,3 @@
 # integration-testing-public
 integration testing public
-This is a remediation for #FIND-004. 
+This is a remediation for #FIND-002. 
